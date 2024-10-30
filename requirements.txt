@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+tensorflow
+keras
+jupyter 
+ipywidgets
+widgetsnbextension
